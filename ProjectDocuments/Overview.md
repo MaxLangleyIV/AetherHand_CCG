@@ -1,3 +1,5 @@
+# Aether Hand
+
 **Aether Hand** is a collectible card game set in a near-future, high-fantasy world. 
 
 In this world there exist the select few who possess the so called "Aether Hand". These individuals are able to reach through time and space itself to summon powerful entities, spells, weapons, and more. 
