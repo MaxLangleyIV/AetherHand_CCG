@@ -12,6 +12,6 @@ As the player, you bear the blessing (or burden) of the Aether Hand. As a Wielde
 
 Choose / create a custom Hero card.
 
-Collect cards (Aether Fragments) to form a deck which serve as their Hero's arsenal.
+Collect cards (Aether Fragments) to form a deck, which serves as their Hero's arsenal.
 
 Use these decks to engage in duels against other Heroes.
