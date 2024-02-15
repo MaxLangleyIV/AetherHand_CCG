@@ -2,11 +2,11 @@
 
 **Aether Hand** is a collectible card game set in a near-future, high-fantasy world. 
 
-In this world there exist the select few who possess the so called "Aether Hand". These individuals are able to reach through time and space itself to summon powerful entities, spells, weapons, and more. 
+In this world there exist a select few who possess the so called "Aether Hand". These individuals are able to reach through time and space itself to summon powerful entities, spells, weapons, and more. 
 
-These wielders of the Aether Hand have become the de facto rulers of the world. Some are benevolent, while others are driven by greed and lust for power.
+These Wielders of the Aether Hand have become the de facto rulers of the world. Some are benevolent, while others are driven by greed and a lust for power.
 
-As the player, you bear the blessing (or burden) of the Aether Hand. As a Wielder, you must master your power, and strengthen yourself by collecting Aether Fragments (cards).
+You, the player, bear the blessing (or burden) of the Aether Hand. As a Wielder, you must master your power, and strengthen yourself by collecting Aether Fragments (cards).
 
 ## General Idea:
 
@@ -17,7 +17,7 @@ Use these decks to engage in duels against other Heroes.
 ## Duel Basics:
 
 At the beginning of a duel the player and their opponent start with their Hero card on the field.
-First turn is decided by coin toss, unless otherwise specified.
+First turn is decided by a roll of the dice, unless otherwise specified.
 
 The goal is to reduce the enemy Hero's health to zero.
 
